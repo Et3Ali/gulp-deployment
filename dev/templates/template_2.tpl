@@ -1,0 +1,1 @@
+This is a template 2 with variable <%- variable%>
